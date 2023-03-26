@@ -1,0 +1,3 @@
+set('x', add(2,17))
+set('x', add(x,1))
+print('the value of x is', x)
